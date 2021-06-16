@@ -19,7 +19,7 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="y" value="25" />
     <option name="width" value="1792" />
     <option name="height" value="1029" />
@@ -30,7 +30,17 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="springboot-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springboot-demo" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
@@ -78,15 +88,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1623067541181</updated>
-      <workItem from="1623067543774" duration="759000" />
+      <workItem from="1623067543774" duration="1115000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="759000" />
+    <option name="totallyTimeSpent" value="1115000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="25" width="1792" height="1029" extended-state="1" />
+    <frame x="0" y="25" width="1792" height="1029" extended-state="0" />
     <layout>
       <window_info id="Designer" />
       <window_info id="Image Layers" />
